@@ -1,0 +1,67 @@
+﻿{
+	"Animal_Name":
+	[
+		{
+			"Bears": "syrian",
+			"Red Panda": "dawn and dusk",
+			"Otter": "clear eye membrane",
+			"Beaver": "Beaver",
+			"Brandon": "1",
+			"Prairie Dog": "Black-Tailed Prairie Dog",
+			"Wolverine": "Gulo gulo",
+			"Bush Dog": "Bush Dog"		
+		}	
+	],
+	"Quantity":
+	[
+		{
+			"Bears": "3",
+			"Red Panda": "1",
+			"Otter": "8",
+			"Beaver": "2",
+			"Brandon": "1",
+			"Prairie Dog": "12",
+			"Wolverine": "2",
+			"Bush Dog": "6"		
+		}	
+	],
+	"Habitat_Continent":
+	[
+		{
+			"Bears": "North America",
+			"Red Panda": "Himalayas",
+			"Otter": "North America",
+			"Beaver": "North America",
+			"Brandon": "1",
+			"Prairie Dog": "prairies of North America",
+			"Wolverine": "North America and Northern Asia",
+			"Bush Dog": "South America"		
+		}
+	],
+	"BonusString":
+	[
+		{
+			"Bears": "outer (guard) hairs",
+			"Red Panda": "scent glands",
+			"Otter": "Mother",
+			"Beaver": "North America",
+			"Brandon": "1",
+			"Prairie Dog": "Predators",
+			"Wolverine": "",
+			"Bush Dog": "South America"		
+		}
+	],
+	"BonusInt":
+	[
+		{
+			"Bears": "0",
+			"Red Panda": "1",
+			"Otter": "1",
+			"Beaver": "15",
+			"Brandon": "1",
+			"Prairie Dog": "5",
+			"Wolverine": "North America and Northern Asia",
+			"Bush Dog": "South America"		
+		}
+	]
+}
